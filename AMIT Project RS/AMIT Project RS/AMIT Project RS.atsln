@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AMIT Project RS", "AMIT Project RS\AMIT Project RS.cproj", "{EECBB0F0-1A9C-42DB-AC98-FCC3EC7AE726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECBB0F0-1A9C-42DB-AC98-FCC3EC7AE726}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EECBB0F0-1A9C-42DB-AC98-FCC3EC7AE726}.Debug|AVR.Build.0 = Debug|AVR
+		{EECBB0F0-1A9C-42DB-AC98-FCC3EC7AE726}.Release|AVR.ActiveCfg = Release|AVR
+		{EECBB0F0-1A9C-42DB-AC98-FCC3EC7AE726}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
